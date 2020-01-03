@@ -21,8 +21,8 @@ $grey = "\e[37m";
 $cyan = "\e[36m";
 $bold   = "\e[1m";
 function kkktp_banner(){
-  echo "\e[91;1m
-
+  echo "\e[36;1m
+GENERATED .. .
 
 '||'  |'  '||      ' '||'  |'    .            
  || .'     ||  ..     || .'    .||.  ... ...  
